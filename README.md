@@ -2,10 +2,10 @@
 ## I'm Tushar Choudhary
 
 <p align="center">
-<a href="https://linkedin.com/in/tushar-c23" target="blank"><img align="center" src="assets/logos/linkedin.png" alt="tushar-c23" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/tanzero#9648" target="blank"><img align="center" src="assets/logos/discord.png" alt="tanzero#9648" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/tusharc23"><img align="center" alt="Buy me a Coffee" width="30px" src="assets/logos/buymeacoffee.svg" /></a>
-<a href="https://www.instagram.com/tushar._.c/"><img align="center" alt="tushar._.c" width="30px" src="assets/logos/instagram.png" /></a>
+<a href="https://linkedin.com/in/tushar-c23" target="_blank"><img align="center" src="assets/logos/linkedin.png" alt="tushar-c23" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/tanzero#9648" target="_blank"><img align="center" src="assets/logos/discord.png" alt="tanzero#9648" height="40" width="30" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/tusharc23" target="_blank"><img align="center" alt="Buy me a Coffee" width="30px" src="assets/logos/buymeacoffee.svg" /></a>
+<a href="https://www.instagram.com/tushar._.c/" target="_blank"><img align="center" alt="tushar._.c" width="30px" src="assets/logos/instagram.png" /></a>
 </p>
 
 ### About Me:
