@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 🤔 I’m looking for help with procrastination.
-- 💬 Ask me about anime, politics, finance, music, games and definetly computer science.
+- 💬 Ask me about anime, politics, finance, music, games and definitely computer science.
 - 📫 How to reach me: Above linked socials, feel free to reach me out!
 - 😄 Pronouns: He/Him.
 - 🧑‍💻 Tech I'm fluent with :
