@@ -9,7 +9,7 @@
 </p>
 
 ### About Me:
-- 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled and software developer.
+- 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled software developer.
 - 🔭 I’m currently working on developing my skills in the field of Web Development with a goal to become a Full Stack developer.
 - 📝 I'm an enthusiastic Competitive Programmer and regularly compete in contests, to get more fluency in problem solving.
 - 🌱 I’m currently learning ReactJS.
