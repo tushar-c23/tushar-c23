@@ -42,8 +42,8 @@
 ### Languages I'm writing:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-c23&theme=transparent)](https://github.com/tushar-c23/github-readme-stats)
 
-<!-- ### Have i been procrastinating or working this week?
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar-c23)](https://github.com/tushar-c23/github-readme-stats) -->
+### Have i been procrastinating or working this week?
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar_c23)](https://github.com/tushar-c23/github-readme-stats)
 
 <!-- <img src="https://github-readme-linkedin-rouge.vercel.app/education?username=tushar-c23" /> -->
 
