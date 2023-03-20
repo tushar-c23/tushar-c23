@@ -27,10 +27,12 @@
       <img src="assets/logos/JavaScript-logo.png" alt="js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="assets/logos/reactjs.png" alt="ReactJS" width="55" height="55"/>
+      <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="ExpressJS">
+      <img src="assets/logos/react-router-mark-color.png" alt="React-router" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="assets/logos/Rlogo.png" alt="R" width="45" height="55"/>
+      <img src="assets/logos/Rlogo.png" alt="R" width="65" height="55"/>
       <img src="https://img.icons8.com/color/48/null/c-programming.png" alt="C"/>
       <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" alt="C++"/>
 
