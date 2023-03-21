@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/tushar-c23" target="_blank"><img align="center" src="assets/logos/linkedin.png" alt="tushar-c23" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/tanzero#9648" target="_blank"><img align="center" src="assets/logos/discord.png" alt="tanzero#9648" height="40" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/tanzero#9648" target="_blank"><img align="center" src="assets/logos/discord.png" alt="tanzero#9648" height="40" width="40" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/tusharc23" target="_blank"><img align="center" alt="Buy me a Coffee" width="30px" src="assets/logos/buymeacoffee.svg" /></a>
 <a href="https://www.instagram.com/tushar._.c/" target="_blank"><img align="center" alt="tushar._.c" width="30px" src="assets/logos/instagram.png" /></a>
 </p>
@@ -24,10 +24,13 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="assets/logos/HTML5_Logo_512.png" alt="html5" width="55" height="55"/>
       <img src="https://img.icons8.com/color/48/null/css3.png" alt="css"/>
+      <img src="assets/logos/bootstrap-logo.svg" alt="bootstrapcss" width="50" height="40"/>
+      <img src="assets/logos/tailwindcss.svg" alt="tailwindcss" width="50" height="40"/>
       <img src="assets/logos/JavaScript-logo.png" alt="js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="assets/logos/reactjs.png" alt="ReactJS" width="55" height="55"/>
       <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="ExpressJS">
+      <img src="assets/logos/threejs.png" alt="ExpressJS" width="55" height="55">
       <img src="assets/logos/react-router-mark-color.png" alt="React-router" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
