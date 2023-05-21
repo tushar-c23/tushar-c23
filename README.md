@@ -41,8 +41,7 @@
       <img src="assets/logos/spring.svg" alt="spring-boot" width="75" height="55"/>
       <img src="assets/logos/social-icon-google-cloud-1200-630(1).png" alt="google-cloud" width="75" height="55"/>
       <img src="assets/logos/4844510.png" alt="java" width="75" height="55"/>
-
-
+      <img src="assets/logos/Postgresql_elephant.svg.png" alt="postgresql" width="65" height="65"/>
 </p>
 
 ### My GitHub Stats:
