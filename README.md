@@ -38,6 +38,10 @@
       <img src="assets/logos/Rlogo.png" alt="R" width="65" height="55"/>
       <img src="https://img.icons8.com/color/48/null/c-programming.png" alt="C"/>
       <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" alt="C++"/>
+      <img src="assets/logos/spring.svg" alt="spring-boot" width="75" height="55"/>
+      <img src="assets/logos/social-icon-google-cloud-1200-630(1).png" alt="google-cloud" width="75" height="55"/>
+      <img src="assets/logos/4844510.png" alt="java" width="75" height="55"/>
+
 
 </p>
 
