@@ -12,7 +12,7 @@
 - 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled software developer.
 - 🔭 I’m currently working on developing my skills in the field of Blockchain and Machine Learning/Artificial Intelligence.
 - 📝 I'm an enthusiastic Competitive Programmer and regularly compete in contests, to get more fluency in problem solving.
-- 🌱 I’m currently learning Solidity and building smart contracts.
+- 🌱 I’m currently working with SpringBoot, PostegreSQL and GoogleCloud as a Software Engineering Intern at Sadisha Foundation.
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 🤔 I’m looking for help with procrastination.
 - 💬 Ask me about anime, politics, finance, music, games and definitely computer science.
