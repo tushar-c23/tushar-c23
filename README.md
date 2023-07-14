@@ -8,11 +8,13 @@
 <a href="https://www.instagram.com/tushar._.c/" target="_blank"><img align="center" alt="tushar._.c" width="30px" src="assets/logos/instagram.png" /></a>
 </p>
 
+## I'm a Full Stack Developer, Competitive Programmer, and most importantly a Student!
+
 ### About Me:
 - 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled software developer.
 - 🔭 I’m currently working on developing my skills in the field of Blockchain and Machine Learning/Artificial Intelligence.
 - 📝 I'm an enthusiastic Competitive Programmer and regularly compete in contests, to get more fluency in problem solving.
-- 🌱 I’m currently working with SpringBoot, PostegreSQL and GoogleCloud as a Software Engineering Intern at Sadisha Foundation.
+- 🌱 **I’m currently working with SpringBoot, PostegreSQL and GoogleCloud for the backend and Angular on the frontend as a Software Engineering Intern at Sadisha Foundation.**
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 🤔 I’m looking for help with procrastination.
 - 💬 Ask me about anime, politics, finance, music, games and definitely computer science.
@@ -42,6 +44,8 @@
       <img src="assets/logos/social-icon-google-cloud-1200-630(1).png" alt="google-cloud" width="75" height="55"/>
       <img src="assets/logos/4844510.png" alt="java" width="75" height="55"/>
       <img src="assets/logos/Postgresql_elephant.svg.png" alt="postgresql" width="65" height="65"/>
+      <img src="assets/logos/angular.png" alt="angular" width="65" height="65"/>
+      <img src="assets/logos/ts-logo-128.png" alt="angular" width="65" height="65"/>
       <img src="assets/logos/sol.svg" alt="solidity" width="65" height="75"/>
 </p>
 
