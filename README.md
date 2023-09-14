@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with spreading linux propaganda.
 - 💬 Ask me about anime, politics, finance, music, games and definitely computer science.
 - 📫 How to reach me: Above linked socials, feel free to reach me out. || <a href="mailto:tusharc.cse@gmail.com">Mail Me!</a>
-- 📄 Here's my resume: <a href="https://drive.google.com/drive/folders/1naV_lRg_QDZ1OS1lBwqTNeYWPazifiZb?usp=drive_link">Click Me!</a>
+- 📄 Here's my resume: <a target="_blank" href="https://drive.google.com/drive/folders/1naV_lRg_QDZ1OS1lBwqTNeYWPazifiZb?usp=drive_link">Click Me!</a>
 - 😄 Pronouns: He/Him.
 - 🧑‍💻 Tech I'm fluent with :
 
