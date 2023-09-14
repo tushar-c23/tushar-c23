@@ -11,14 +11,15 @@
 ## I'm a Full Stack Developer, Competitive Programmer, and most importantly a Student!
 
 ### About Me:
-- 🏦 I'm an Computer Science Engineering undergrad aspiring to become a skilled software developer.
+- 🏦 I'm an Computer Science Engineering undergrad, aspiring to become a skilled software developer.
 - 🔭 I’m currently working on developing my skills in the field of Blockchain and Machine Learning/Artificial Intelligence.
 - 📝 I'm an enthusiastic Competitive Programmer and regularly compete in contests, to get more fluency in problem solving.
 - 🌱 **I’m currently working with SpringBoot, PostegreSQL and GoogleCloud for the backend and Angular on the frontend as a Software Engineering Intern at Sadisha Foundation.**
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
-- 🤔 I’m looking for help with procrastination.
+- 🤔 I’m looking for help with spreading linux propaganda.
 - 💬 Ask me about anime, politics, finance, music, games and definitely computer science.
-- 📫 How to reach me: Above linked socials, feel free to reach me out!
+- 📫 How to reach me: Above linked socials, feel free to reach me out. || <a href="mailto:tusharc.cse@gmail.com">Mail Me!</a>
+- 📄 Here's my resume: <a href="https://drive.google.com/drive/folders/1naV_lRg_QDZ1OS1lBwqTNeYWPazifiZb?usp=drive_link">Click Me!</a>
 - 😄 Pronouns: He/Him.
 - 🧑‍💻 Tech I'm fluent with :
 
