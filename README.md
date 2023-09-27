@@ -6,6 +6,7 @@
 <a href="http://discord.com/users/tanzero#9648" target="_blank"><img align="center" src="assets/logos/discord.png" alt="tanzero#9648" height="40" width="40" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/tusharc23" target="_blank"><img align="center" alt="Buy me a Coffee" width="30px" src="assets/logos/buymeacoffee.svg" /></a>
 <a href="https://www.instagram.com/tushar._.c/" target="_blank"><img align="center" alt="tushar._.c" width="30px" src="assets/logos/instagram.png" /></a>
+<a href="https://codeforces.com/profile/tushar-c23" target="_blank"><img align="center" alt="tushar-c23" width="30px" src="assets/logos/cf.png" /></a>
 </p>
 
 ## I'm a Full Stack Developer, Competitive Programmer, and most importantly a Student!
@@ -33,8 +34,8 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="assets/logos/reactjs.png" alt="ReactJS" width="55" height="55"/>
       <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="ExpressJS">
-      <img src="assets/logos/threejs.png" alt="ExpressJS" width="55" height="55">
-      <img src="assets/logos/react-router-mark-color.png" alt="React-router" width="75" height="55"/>
+      <!-- <img src="assets/logos/threejs.png" alt="ExpressJS" width="55" height="55"> -->
+      <!-- <img src="assets/logos/react-router-mark-color.png" alt="React-router" width="75" height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
