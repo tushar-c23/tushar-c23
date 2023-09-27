@@ -51,10 +51,10 @@
 </p>
 
 ### My GitHub Stats:
-[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar-c23&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/tushar-c23/github-readme-stats)
+[![Tushar's GitHub stats](https://github-readme-stats-d7xo932ph-tushar-c23.vercel.app/api?username=tushar-c23&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/tushar-c23/github-readme-stats)
 
 ### Languages I'm writing:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-c23&theme=transparent)](https://github.com/tushar-c23/github-readme-stats)
+[![Top Langs](https://github-readme-stats-d7xo932ph-tushar-c23.vercel.app/api/top-langs/?username=tushar-c23&theme=transparent&exclude_repo=Academic_Mischief)](https://github.com/tushar-c23/github-readme-stats)
 
 <!-- ### Have i been procrastinating or working this week?
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tushar_c23&theme=transparent)](https://github.com/tushar-c23/github-readme-stats) -->
