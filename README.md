@@ -25,30 +25,32 @@
 - 🧑‍💻 Tech I'm fluent with :
 
 <p align="center">
+      <img src="assets/logos/JavaScript-logo.png" alt="js" width="55" height="55"/>
+      <img src="https://img.icons8.com/color/48/null/c-programming.png" alt="C"/>
+      <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" alt="C++"/>
+      <img src="assets/logos/4844510.png" alt="java" width="75" height="55"/>
+      <img src="assets/logos/ts-logo-128.png" alt="typescript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="assets/logos/HTML5_Logo_512.png" alt="html5" width="55" height="55"/>
       <img src="https://img.icons8.com/color/48/null/css3.png" alt="css"/>
+      <img src="assets/logos/sol.svg" alt="solidity" width="65" height="75"/>
+      <img src="assets/logos/Rlogo.png" alt="R" width="65" height="55"/>
+      <br/> <!--Languages above | Frameworks below-->
+      <img src="assets/logos/spring.svg" alt="spring-boot" width="75" height="55"/>
+      <img src="assets/logos/angular.png" alt="angular" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="ExpressJS">
+      <img src="assets/logos/reactjs.png" alt="ReactJS" width="55" height="55"/>
       <img src="assets/logos/bootstrap-logo.svg" alt="bootstrapcss" width="50" height="40"/>
       <img src="assets/logos/tailwindcss.svg" alt="tailwindcss" width="50" height="40"/>
-      <img src="assets/logos/JavaScript-logo.png" alt="js" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="assets/logos/reactjs.png" alt="ReactJS" width="55" height="55"/>
-      <img src="https://img.icons8.com/ios/50/null/express-js.png" alt="ExpressJS">
+      <br/> <!--Frameworks above | Tools below-->
       <!-- <img src="assets/logos/threejs.png" alt="ExpressJS" width="55" height="55"> -->
       <!-- <img src="assets/logos/react-router-mark-color.png" alt="React-router" width="75" height="55"/> -->
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="assets/logos/social-icon-google-cloud-1200-630(1).png" alt="google-cloud" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="assets/logos/Rlogo.png" alt="R" width="65" height="55"/>
-      <img src="https://img.icons8.com/color/48/null/c-programming.png" alt="C"/>
-      <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" alt="C++"/>
-      <img src="assets/logos/spring.svg" alt="spring-boot" width="75" height="55"/>
-      <img src="assets/logos/social-icon-google-cloud-1200-630(1).png" alt="google-cloud" width="75" height="55"/>
-      <img src="assets/logos/4844510.png" alt="java" width="75" height="55"/>
       <img src="assets/logos/Postgresql_elephant.svg.png" alt="postgresql" width="65" height="65"/>
-      <img src="assets/logos/angular.png" alt="angular" width="65" height="65"/>
-      <img src="assets/logos/ts-logo-128.png" alt="angular" width="65" height="65"/>
-      <img src="assets/logos/sol.svg" alt="solidity" width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 </p>
 
 ### My GitHub Stats:
